@@ -12,10 +12,7 @@ Building intelligent solutions through Statistics, Machine Learning and Software
 
 ## 👨‍💻 About Me
 
-I'm a **Statistician** with a strong background in **Sampling Methods**, **Statistical Inference**, **Bayesian Statistics** and **Data Science**, passionate about transforming data into actionable insights.
-
-I have experience delivering data-driven solutions for **large organizations** in the **financial** and **marketing** sectors, working across the entire analytics lifecycle—from data acquisition and engineering to predictive modeling, deployment, and visualization.
-
+I'm a **Statistician** with a strong background in **Sampling Methods**, **Statistical Inference**, **Bayesian Statistics** and **Data Science**.
 My interests span **Machine Learning**, **Time Series Forecasting**, **Data Engineering**, **Artificial Intelligence**, and **Software Development**.
 
 ---
@@ -123,112 +120,7 @@ My interests span **Machine Learning**, **Time Series Forecasting**, **Data Engi
 
 </p>
 
-### Security
 
-<p>
-
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ffuf-111111?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Amass-00599C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Subfinder-0078D4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/httpx-0066CC?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Nuclei-3E7BFA?style=for-the-badge"/>
-
-</p>
-
----
-
-## 🌱 Currently Learning
-
-- Offensive Security
-- Bug Bounty Hunting
-- Web Application Penetration Testing
-- Large Language Models (LLMs)
-- MLOps
-- Cloud Architecture
-
----
-
-## ⭐ Featured Projects
-
-### 📈 Financial Time Series Forecasting
-
-Machine learning models for stock market prediction using statistical and deep learning techniques.
-
----
-
-### 🤖 Predictive Modeling
-
-Real-world predictive models using supervised and unsupervised machine learning algorithms.
-
----
-
-### 🏗 Data Engineering Pipelines
-
-ETL workflows, distributed data processing, and scalable data architectures.
-
----
-
-### 🌐 Data Science Dashboard
-
-Interactive web applications for analytics and visualization built with Flask and Python.
-
----
-
-### 🔐 Web Security Studies
-
-Personal notes, automations, write-ups and methodologies for Web Application Security and Bug Bounty.
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mathblanco&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathblanco&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mathblanco&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-## 📊 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mathblanco&theme=github-compact"/>
-
-</p>
-
----
-
-## 🎯 Current Focus
-
-- 📚 Deepening my knowledge of Machine Learning and Artificial Intelligence
-- 📊 Developing statistical solutions for real-world problems
-- 🏗 Building scalable data engineering pipelines
-- 🔐 Practicing Web Application Security through Hack The Box and Bug Bounty platforms
-- 🚀 Developing high-performance backend applications using Python
-
----
 
 ## 🌎 Connect With Me
 
