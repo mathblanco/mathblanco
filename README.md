@@ -112,18 +112,6 @@ My interests span **Machine Learning**, **Time Series Forecasting**, **Data Engi
 
 </p>
 
----
-
-## 🏆 Featured Projects
-
-### 📈 Financial Anomaly Detection & Market Analytics Dashboard
-An interactive web application developed in **R** using the **Shiny** framework, featuring an automated Machine Learning pipeline for financial market analysis.
-
-* **Key Features:** Trains an **Isolation Forest** machine learning model on-the-fly to detect and visualize anomalies (outliers) in historical price data for any asset selected by the user. Includes interactive time-series plots, dynamic filtering, and global data science market insights.
-* **Tech Stack:** R, Shiny, `isotree` (or `solitude`), `shinydashboard`, `tidyverse`, `plotly`.
-* **Live Demo:** [🔗 Access the Application](https://careca.shinyapps.io/dataScience/)
-
----
 
 ## 🏆 Featured Projects
 
