@@ -12,11 +12,11 @@ Building intelligent solutions through Statistics, Machine Learning and Software
 
 ## 👨‍💻 About Me
 
-I'm a **Statistician** with a strong background in **Sampling Methods**, **Statistical Inference**, and **Bayesian Statistics**, passionate about transforming data into actionable insights.
+I'm a **Statistician** with a strong background in **Sampling Methods**, **Statistical Inference**, **Bayesian Statistics** and **Data Science**, passionate about transforming data into actionable insights.
 
 I have experience delivering data-driven solutions for **large organizations** in the **financial** and **marketing** sectors, working across the entire analytics lifecycle—from data acquisition and engineering to predictive modeling, deployment, and visualization.
 
-My interests span **Machine Learning**, **Time Series Forecasting**, **Data Engineering**, **Artificial Intelligence**, and **Software Development**. Recently, I've also been expanding my expertise in **Web Application Security**, **Penetration Testing**, and **Bug Bounty**.
+My interests span **Machine Learning**, **Time Series Forecasting**, **Data Engineering**, **Artificial Intelligence**, and **Software Development**.
 
 ---
 
@@ -33,7 +33,7 @@ My interests span **Machine Learning**, **Time Series Forecasting**, **Data Engi
 - 📦 ETL Pipelines
 - 📊 Data Visualization
 - 🌐 Backend Development
-- 🔐 Web Application Security
+
 
 ---
 
