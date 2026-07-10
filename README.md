@@ -112,6 +112,18 @@ My interests span **Machine Learning**, **Time Series Forecasting**, **Data Engi
 
 </p>
 
+---
+
+## 🏆 Featured Projects
+
+### 📊 Data Science Market Analytics Dashboard
+An interactive web application developed in **R** using the **Shiny** framework, designed to analyze and visualize global trends in the Data Science job market.
+
+* **Key Features:** Interactive exploratory data analysis (EDA), multi-variable filtering, dynamic data tables, and comprehensive salary insights tailored for Data Science roles.
+* **Tech Stack:** R, Shiny, `shinydashboard`, `tidyverse`, `plotly`.
+* **Live Demo:** [🔗 Access the Application](https://careca.shinyapps.io/dataScience/)
+
+---
 
 
 ## 🌎 Connect With Me
