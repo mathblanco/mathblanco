@@ -1,12 +1,3 @@
-<h1 align="center">Hi 👋, I'm Matheus Pinheiro</h1>
-
-<h3 align="center">
-Statistician • Data Scientist • Machine Learning Engineer • Data Engineer
-</h3>
-
-<p align="center">
-Building intelligent solutions through Statistics, Machine Learning and Software Engineering.
-</p>
 
 ---
 
