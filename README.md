@@ -144,13 +144,3 @@ My interests span **Machine Learning**, **Time Series Forecasting**, **Data Engi
 </a>
 
 </p>
-
----
-
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=mathblanco&style=for-the-badge)
-
-</p>
-
----
