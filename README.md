@@ -13,6 +13,7 @@ Building intelligent solutions through Statistics, Machine Learning and Software
 ## 👨‍💻 About Me
 
 I'm a **Statistician** with a strong background in **Sampling Methods**, **Statistical Inference**, **Bayesian Statistics** and **Data Science**.
+
 My interests span **Machine Learning**, **Time Series Forecasting**, **Data Engineering**, **Artificial Intelligence**, and **Software Development**.
 
 ---
@@ -153,9 +154,3 @@ My interests span **Machine Learning**, **Time Series Forecasting**, **Data Engi
 </p>
 
 ---
-
-<p align="center">
-
-> *"Transforming uncertainty into knowledge through Statistics, Machine Learning and Software Engineering."*
-
-</p>
