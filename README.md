@@ -125,6 +125,26 @@ An interactive web application developed in **R** using the **Shiny** framework,
 
 ---
 
+## 🏆 Featured Projects
+
+### 📈 Financial Anomaly Detection & Market Analytics Dashboard
+An interactive web application developed in **R** using the **Shiny** framework, featuring an automated Machine Learning pipeline for financial market analysis.
+* **Key Features:** Trains an **Isolation Forest** machine learning model on-the-fly to detect and visualize anomalies (outliers) in historical price data for any asset selected by the user. Includes interactive time-series plots, dynamic filtering, and market insights.
+* **Tech Stack:** R, Shiny, `isotree`, `shinydashboard`, `tidyverse`, `plotly`.
+* **Live Demo:** [🔗 Access the Application](https://careca.shinyapps.io/dataScience/)
+
+
+
+### 🔮 Automated Time Series Forecasting App
+A powerful web application built with **R Shiny** that allows users to perform end-to-end time series forecasting using Machine Learning without writing a single line of code.
+* **Key Features:** Users can upload their own historical datasets, configure parameters, and train a **K-Nearest Neighbors (KNN)** model in real-time to generate accurate future forecasts and interactive visualizations.
+* **Tech Stack:** R, Shiny, `tsfknn` (or `caret`), `tidyverse`, `plotly`, `shinydashboard`.
+* **Live Demo:** [🔗 Access the Application](https://careca.shinyapps.io/forecastMachine/)
+
+---
+
+---
+
 
 ## 🌎 Connect With Me
 
