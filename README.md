@@ -1,5 +1,5 @@
 # Matheus Blanco
-### Statistician | Data Scientist | Machine Learning Engineer
+### Statistician | Programmer
 
 ---
 
